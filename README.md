@@ -1,3 +1,3 @@
 # Typing-game
 future work:-
-  add level
+  add levels
